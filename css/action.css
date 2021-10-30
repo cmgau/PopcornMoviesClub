@@ -1,6 +1,6 @@
 body {
     background-color: rgb(143, 129, 6);
-    background-image: url(/Gifs/snow.gif);
+    background-image: url(/gifs/snow.gif);
     
 }
 
@@ -97,7 +97,7 @@ nav#menu ul {
     top: 0px;
     bottom: 0px;
     background-color: rgb(189, 76, 57);
-    background-image: url(/Gifs/snow.gif);
+    background-image: url(/gifs/snow.gif);
     border: rgb(139, 139, 138) 10px solid;
     width: 190px;
     padding: 20px;

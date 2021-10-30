@@ -1,6 +1,6 @@
 body {
     background-color: rgb(5, 21, 56);
-    background-image: url(/Gifs/background4.gif);
+    background-image: url(/gifs/background4.gif);
 }
 
 * {
@@ -64,7 +64,7 @@ nav#menu ul {
     top: 0px;
     bottom: 0px;
     background-color: rgb(147, 30, 177);
-    background-image: url(/Gifs/background4.gif);
+    background-image: url(/gifs/background4.gif);
     border: rgb(248, 248, 176) 10px solid;
     width: 190px;
     padding: 20px;
